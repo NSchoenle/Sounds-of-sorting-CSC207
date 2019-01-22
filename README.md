@@ -1,7 +1,7 @@
 # CSC 207 (Fall 2016) Homework: The Sounds of Sorting
 
 [The Sounds of Sorting](http://www.cs.grinnell.edu/~osera/courses/csc207/17sp/homeworks/the-sounds-of-sorting.html)
-Nora Schoenle, Caelin Bryant, Jemuel Santos
+Nolan Schoenle, Caelin Bryant, Jemuel Santos
 
 Resources
 https://www.tutorialspoint.com/java/util/arrays_copyof_int.htm for Array.copyof syntax
